@@ -12,3 +12,4 @@ def fibonacci(nilai):
 
 for i in range(nilai):
     print(f"Nilai Fibonacci[{i}] = {fibonacci(i)}")
+    print("Halo, saya Andika Indra Praja dengan NIM 2611229 dari kelas 1A")
