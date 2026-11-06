@@ -11,4 +11,4 @@ def fibonacci(nilai):
         return fibonacci(nilai-1) + fibonacci(nilai-2)
 
 for i in range(nilai):
-    print(fibonacci(i))
+    print(f"Nilai Fibonacci[{i}] = {fibonacci(i)}")
